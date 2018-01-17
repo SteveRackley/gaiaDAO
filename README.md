@@ -4,6 +4,7 @@ Re-imagining Governance of the Global Commons
 Here is the Abstract of the gaiaDAO White Paper, which is currently being reviewed prior to initial release.
 
 Abstract
+
 gaiaDAO is conceived as a distributed autonomous organization whose mission is to nudge the global economy towards a realistic and sustainable pricing-in of the Earth's ecosystem services, starting with those provided by the atmosphere. This will be achieved by engaging in GHG emissions trading to encourage a common, sustainable carbon price and, in the mid- to long-term, through the sponsorship and execution of a range of projects, including negative emissions research and development projects.
 
 The DAO operation is based on an open blockchain secured ledger of transaction and contracts (i.e. emissions permit purchases and retirements, project initiation and management). Block generation, verification, and security is maintained using a proof-of-stake method, by DAO Stakeholders whose stake is based on the number of emissions permits held off-market. Permits lodged and verified in the ledger are reflected by an equivalent holding of emissions tokens (or Ore, one Ore being equivalent to a 1 t-CO2e emission permit.)
